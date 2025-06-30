@@ -18,7 +18,7 @@ def run():
     Run the crew.
     """
     inputs = {
-        'motion': 'Nametags are needs to be put on things to identify them',
+        'motion': 'Nametags are needs to be put on things to prevent them from being lost',
     }
     
     try:
